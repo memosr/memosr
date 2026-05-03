@@ -34,19 +34,34 @@ Blockchain developer focused on **Base network** — building on-chain tools, co
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### [📜 Letters to the Future](https://github.com/memosr/letters-to-the-future)
-
-> An on-chain message board deployed on **Base mainnet**. Write a letter — it lives on the blockchain forever.
-
-Built with Solidity. Deployed on Base. Permanent by design.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📜 Letters to the Future</h3>
+      <p>An on-chain message board deployed on <strong>Base mainnet</strong>. Write a letter — it lives on the blockchain forever.</p>
+      <p>
+        <a href="https://memosr.github.io/letters-to-the-future/">🌐 Live</a> &nbsp;|&nbsp;
+        <a href="https://github.com/memosr/letters-to-the-future">📂 Source</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗒️ Onchain Notes</h3>
+      <p>Personal note-taking dApp on <strong>Base</strong> where users own their notes on-chain. Your notes, your keys, your chain.</p>
+      <p>
+        <a href="https://memosr.github.io/onchain-notes/">🌐 Live</a> &nbsp;|&nbsp;
+        <a href="https://github.com/memosr/onchain-notes">📂 Source</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🔭 Currently Building
 
-Developing on **Base chain** — exploring on-chain data primitives, message permanence, and contract-native UX.
+Shipping multiple **Base dApps** — exploring on-chain data primitives, user-owned storage, and contract-native UX patterns.
 
 ---
 
