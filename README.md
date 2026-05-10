@@ -38,7 +38,7 @@ Blockchain developer focused on **Base network** — building on-chain tools, co
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>📜 Letters to the Future</h3>
       <p>An on-chain message board deployed on <strong>Base mainnet</strong>. Write a letter — it lives on the blockchain forever.</p>
       <p>
@@ -46,12 +46,20 @@ Blockchain developer focused on **Base network** — building on-chain tools, co
         <a href="https://github.com/memosr/letters-to-the-future">📂 Source</a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🗒️ Onchain Notes</h3>
       <p>Personal note-taking dApp on <strong>Base</strong> where users own their notes on-chain. Your notes, your keys, your chain.</p>
       <p>
         <a href="https://memosr.github.io/onchain-notes/">🌐 Live</a> &nbsp;|&nbsp;
         <a href="https://github.com/memosr/onchain-notes">📂 Source</a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⛽ Base Gas Tracker</h3>
+      <p>Real-time gas price tracker for <strong>Base mainnet</strong> with calculator and 24h chart.</p>
+      <p>
+        <a href="https://memosr.github.io/base-gas-tracker/">🌐 Live</a> &nbsp;|&nbsp;
+        <a href="https://github.com/memosr/base-gas-tracker">📂 Source</a>
       </p>
     </td>
   </tr>
@@ -61,7 +69,7 @@ Blockchain developer focused on **Base network** — building on-chain tools, co
 
 ## 🔭 Currently Building
 
-Shipping multiple **Base dApps** — exploring on-chain data primitives, user-owned storage, and contract-native UX patterns.
+3 **Base dApps** shipped — continuing to explore on-chain data primitives, user-owned storage, and contract-native UX patterns.
 
 ---
 
