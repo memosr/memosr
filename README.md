@@ -12,7 +12,7 @@
 
 ## ⬡ About
 
-Blockchain developer focused on **Base network** — building on-chain tools, contracts, and infrastructure that last.
+Blockchain developer focused on **Base network**, building on-chain tools, contracts, and infrastructure that last.
 
 - ⛓️ Building on **Base** (Coinbase L2)
 - 🔷 Smart contract development with **Solidity** + **Foundry**
@@ -36,40 +36,17 @@ Blockchain developer focused on **Base network** — building on-chain tools, co
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>📜 Letters to the Future</h3>
-      <p>An on-chain message board deployed on <strong>Base mainnet</strong>. Write a letter — it lives on the blockchain forever.</p>
-      <p>
-        <a href="https://memosr.github.io/letters-to-the-future/">🌐 Live</a> &nbsp;|&nbsp;
-        <a href="https://github.com/memosr/letters-to-the-future">📂 Source</a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🗒️ Onchain Notes</h3>
-      <p>Personal note-taking dApp on <strong>Base</strong> where users own their notes on-chain. Your notes, your keys, your chain.</p>
-      <p>
-        <a href="https://memosr.github.io/onchain-notes/">🌐 Live</a> &nbsp;|&nbsp;
-        <a href="https://github.com/memosr/onchain-notes">📂 Source</a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>⛽ Base Gas Tracker</h3>
-      <p>Real-time gas price tracker for <strong>Base mainnet</strong> with calculator and 24h chart.</p>
-      <p>
-        <a href="https://memosr.github.io/base-gas-tracker/">🌐 Live</a> &nbsp;|&nbsp;
-        <a href="https://github.com/memosr/base-gas-tracker">📂 Source</a>
-      </p>
-    </td>
-  </tr>
-</table>
+| Project | Description | Links |
+| --- | --- | --- |
+| 📜 **Letters to the Future** | An on-chain message board deployed on **Base mainnet**. Write a letter and it lives on the blockchain forever. | [🌐 Live](https://memosr.github.io/letters-to-the-future/) · [📂 Source](https://github.com/memosr/letters-to-the-future) |
+| 🗒️ **Onchain Notes** | Personal note-taking dApp on **Base** where users own their notes on-chain. Your notes, your keys, your chain. | [🌐 Live](https://memosr.github.io/onchain-notes/) · [📂 Source](https://github.com/memosr/onchain-notes) |
+| ⛽ **Base Gas Tracker** | Real-time gas price tracker for **Base mainnet** with calculator and 24h chart. | [🌐 Live](https://memosr.github.io/base-gas-tracker/) · [📂 Source](https://github.com/memosr/base-gas-tracker) |
 
 ---
 
 ## 🔭 Currently Building
 
-3 **Base dApps** shipped — continuing to explore on-chain data primitives, user-owned storage, and contract-native UX patterns.
+3 **Base dApps** shipped. Continuing to explore on-chain data primitives, user-owned storage, and contract-native UX patterns.
 
 ---
 
@@ -82,10 +59,4 @@ Blockchain developer focused on **Base network** — building on-chain tools, co
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=memosr&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=memosr&label=Profile+Views&color=0052FF&style=flat-square" />
 </p>
