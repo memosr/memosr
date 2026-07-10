@@ -38,15 +38,16 @@ Blockchain developer focused on **Base network**, building on-chain tools, contr
 
 | Project | Description | Links |
 | --- | --- | --- |
-| 📜 **Letters to the Future** | An on-chain message board deployed on **Base mainnet**. Write a letter and it lives on the blockchain forever. | [🌐 Live](https://memosr.github.io/letters-to-the-future/) · [📂 Source](https://github.com/memosr/letters-to-the-future) |
-| 🗒️ **Onchain Notes** | Personal note-taking dApp on **Base** where users own their notes on-chain. Your notes, your keys, your chain. | [🌐 Live](https://memosr.github.io/onchain-notes/) · [📂 Source](https://github.com/memosr/onchain-notes) |
-| ⛽ **Base Gas Tracker** | Real-time gas price tracker for **Base mainnet** with calculator and 24h chart. | [🌐 Live](https://memosr.github.io/base-gas-tracker/) · [📂 Source](https://github.com/memosr/base-gas-tracker) |
+| ⛽ **Base Gas Tracker** | Real-time gas price monitor for **Base mainnet** with fee calculator and 24h chart. | [🌐 Live](https://base-gas-tracker-lyart.vercel.app) · [📂 Source](https://github.com/memosr/base-gas-tracker) |
+| 📜 **Letters to the Future** | On-chain time capsule letters on **Base**, mintable as NFTs. | [🌐 Live](https://letters-to-the-future.vercel.app) · [📂 Source](https://github.com/memosr/letters-to-the-future) |
+| 📊 **CodeTrack** | Analytics dashboard for ERC-8021 Builder Codes on **Base**. | [🌐 Live](https://codetrack-phi.vercel.app) · [📂 Source](https://github.com/memosr/codetrack) |
+| 🔌 **Base Gas MCP** | MCP server for live **Base** gas data, paid per call via x402. | [📦 npm](https://www.npmjs.com/package/base-gas-mcp) · [📂 Source](https://github.com/memosr/base-gas-mcp) |
 
 ---
 
 ## 🔭 Currently Building
 
-3 **Base dApps** shipped. Continuing to explore on-chain data primitives, user-owned storage, and contract-native UX patterns.
+4 **Base** projects shipped. Continuing to explore on-chain data primitives, user-owned storage, and contract-native UX patterns.
 
 ---
 
