@@ -24,12 +24,12 @@
     <style>
       .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
       .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
-      .rise{opacity:0;animation:rise .9s cubic-bezier(.2,.7,.2,1) forwards}
+      .rise{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
       .d1{animation-delay:.1s}.d2{animation-delay:.35s}.d3{animation-delay:.6s}.d4{animation-delay:.85s}
       @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
-      .line{opacity:0;animation:show .01s forwards}
+      .line{animation:show .25s ease-out both}
       .l1{animation-delay:1.2s}.l2{animation-delay:1.9s}.l3{animation-delay:2.5s}.l4{animation-delay:3.1s}.l5{animation-delay:3.7s}.l6{animation-delay:4.3s}
-      @keyframes show{to{opacity:1}}
+      @keyframes show{from{opacity:0}to{opacity:1}}
       .caret{animation:blink 1s steps(1) infinite}
       @keyframes blink{50%{opacity:0}}
       .pulse{animation:pulse 2.4s ease-in-out infinite}
@@ -71,7 +71,7 @@
 
       <!-- block chain strip -->
       <g transform="translate(64 360)">
-        <line x1="34" y1="17" x2="460" y2="17" stroke="#0052FF" stroke-width="2" class="flow"/>
+        <g stroke="#0052FF" stroke-width="2"><line x1="74" y1="17" x2="124" y2="17" class="flow"/><line x1="204" y1="17" x2="254" y2="17" class="flow"/><line x1="334" y1="17" x2="384" y2="17" class="flow"/></g>
         <g class="mono" font-size="11">
           <rect x="0" y="0" width="68" height="34" rx="7" fill="#0A1430" stroke="#0052FF" class="pulse b1"/>
           <text x="34" y="21" text-anchor="middle" fill="#9DB8FF">#0x01</text>
@@ -86,7 +86,7 @@
     </g>
 
     <!-- right: terminal -->
-    <g transform="translate(660 70)" class="rise d3">
+    <g transform="translate(660 70)"><g class="rise d3">
       <rect width="476" height="300" rx="14" fill="#070B16" fill-opacity="0.92" stroke="#22345E"/>
       <rect width="476" height="38" rx="14" fill="#0E1528"/>
       <rect y="24" width="476" height="14" fill="#0E1528"/>
@@ -103,9 +103,9 @@
         <text x="22" y="184" class="line l5" fill="#28C840">✓ Deployed to Base mainnet</text>
         <text x="22" y="208" class="line l5" fill="#7C8BA8">  chain 8453 · gas 0.004 gwei</text>
         <text x="22" y="244" class="line l6"><tspan fill="#3B82FF">$</tspan><tspan fill="#E6ECF8"> ship --next</tspan></text>
-        <rect x="132" y="232" width="9" height="16" fill="#3B82FF" class="line l6 caret"/>
+        <g class="line l6"><rect x="140" y="232" width="9" height="16" fill="#3B82FF" class="caret"/></g>
       </g>
-    </g>
+    </g></g>
   </g>
   <rect x="0.5" y="0.5" width="1199" height="439" rx="24" fill="none" stroke="#1B2A4A"/>
 </svg>
